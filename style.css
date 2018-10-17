@@ -80,10 +80,10 @@ ul.menu_horizontal {
   text-decoration: underline;
 }
 
-.textcontact {
-  text-align: right;
-  background: #F1D4AF;
-  width: 50%;
-  height: 200px;
-  background-position: right;
+.rond {
+ width:100px;
+ height:100px;
+ border-radius:50%;
+ background:purple;
+ margin:10px auto;
 }
