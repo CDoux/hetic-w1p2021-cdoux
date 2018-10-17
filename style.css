@@ -1,5 +1,10 @@
-h1 {
+@font-face {
+    font-family: 'Police';
+    src: url('police.ttf');
+}
 
+h1 {
+  font-family: 'Police'
 }
 
 ul#menu_horizontal li {
