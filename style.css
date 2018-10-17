@@ -26,53 +26,58 @@ ul.menu_horizontal {
 }
 
 .home {
-	border-radius:10px 0 10px 0;
-	background: #f5f5f5;
-	border:none;
-	color:#555;
-	font:bold 12px Verdana;
+  color:#555;
+	font:25px 'Amatic SC';
+  text-decoration: none;
 	padding:6px 0 6px 0;
-	box-shadow:1px 1px 3px #999;
+}
+
+.home:hover {
+  text-decoration: underline;
 }
 
 .histoire {
-	border-radius:12px 0 12px 0;
-	background: #f5f5f5;
-	border:none;
-	color:#555;
-	font:bold 12px Verdana;
+  color:#555;
+	font:25px 'Amatic SC';
+  text-decoration: none;
 	padding:6px 0 6px 0;
-	box-shadow:1px 1px 3px #999;
+}
+
+.histoire:hover {
+  text-decoration: underline;
 }
 
 .test {
-	border-radius:12px 0 12px 0;
-	background: #f5f5f5;
-	border:none;
 	color:#555;
-	font:bold 12px Verdana;
+	font:25px 'Amatic SC';
+  text-decoration: none;
 	padding:6px 0 6px 0;
-	box-shadow:1px 1px 3px #999;
+}
+
+.test:hover {
+  text-decoration: underline;
 }
 
 .divers {
-	border-radius:12px 0 12px 0;
-	background: #f5f5f5;
-	border:none;
-	color:#555;
-	font:bold 12px Verdana;
+  color:#555;
+	font:25px 'Amatic SC';
+  text-decoration: none;
 	padding:6px 0 6px 0;
-	box-shadow:1px 1px 3px #999;
+}
+
+.divers:hover {
+  text-decoration: underline;
 }
 
 .contact {
-	border-radius:12px 0 12px 0;
-	background: #f5f5f5;
-	border:none;
-	color:#555;
-	font:bold 12px Verdana;
+  color:#555;
+	font:25px 'Amatic SC';
+  text-decoration: none;
 	padding:6px 0 6px 0;
-	box-shadow:1px 1px 3px #999;
+}
+
+.contact:hover {
+  text-decoration: underline;
 }
 
 p {
