@@ -1,5 +1,7 @@
-p {
-  color: black;
+h1 {
+  font-size: x-large;
+  text-align: center;
+  color: orange;
 }
 
 ul#menu_horizontal li {
@@ -11,8 +13,6 @@ ul#menu_horizontal {
 list-style-type : none;
 }
 
-
-h1 {
-  font-size: x-large;
-  text-align: center;
+p {
+  color: black;
 }
