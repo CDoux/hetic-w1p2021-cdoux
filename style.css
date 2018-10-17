@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Police';
+    font-family: 'Police titre';
     src: url('police.ttf');
 }
 
 h1 {
-  font-family: 'Police'
+  font-family: 'Police titre'
 }
 
 ul#menu_horizontal li {
