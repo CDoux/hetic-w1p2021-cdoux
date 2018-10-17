@@ -80,6 +80,10 @@ ul.menu_horizontal {
   text-decoration: underline;
 }
 
-p {
-  color: black;
+.textcontact {
+  text-align: right;
+  background: #F1D4AF;
+  width: 50%;
+  height: 200px;
+  background-position: right;
 }
