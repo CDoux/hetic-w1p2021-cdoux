@@ -3,7 +3,7 @@
   font-size: 80px;
   text-align: center;
   background-color: #FFFFFF;
-  max-width: 1000px;
+  max-width: 200%;
   margin-left: -1%;
   margin-right: -1%;
 }
@@ -32,7 +32,7 @@ ul.menu_horizontal {
 .menu_horizontal {
   text-align: center;
   background-color: #FFFFFF;
-  max-width: 1000px;
+  max-width: 100%;
   margin-left: -1%;
   margin-right: -1%;
 }
@@ -94,7 +94,7 @@ ul.menu_horizontal {
 
 .dev {
   background-color: #FFFFFF;
-  max-width: 1000px;
+  max-width: 200%;
   margin-left: -1%;
   margin-right: -1%;
 }
