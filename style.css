@@ -1,9 +1,11 @@
-
-
-h1 {
+.titre {
   font-family: 'Amatic SC', cursive;
-  font-size: 120px;
+  font-size: 80px;
   text-align: center;
+  background-color: #FFFFFF;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .banniere {
@@ -28,7 +30,11 @@ ul.menu_horizontal {
 }
 
 .menu_horizontal {
-  text-align: center
+  text-align: center;
+  background-color: #FFFFFF;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .home {
@@ -84,4 +90,11 @@ ul.menu_horizontal {
 
 .contact:hover {
   text-decoration: underline;
+}
+
+.dev {
+  background-color: #FFFFFF;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
