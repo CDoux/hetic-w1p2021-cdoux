@@ -1,12 +1,12 @@
 .titre {
   font-family: 'Amatic SC', cursive;
-  font-size: 80px;
+  font-size: 70px;
   text-align: center;
   background-color: #000000;
   max-width: 200%;
-  margin-left: -1%;
-  margin-right: -1%;
-  opacity: 0.5;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.8;
   color: #FFFFFF;
 }
 
@@ -20,6 +20,7 @@
   position: fixed;
   right: 0;
   bottom: 0;
+  opacity: 0.7;
 }
 
 ul.menu_horizontal li {
@@ -35,8 +36,8 @@ ul.menu_horizontal {
   text-align: center;
   background-color: #FFFFFF;
   max-width: 100%;
-  margin-left: -1%;
-  margin-right: -1%;
+  margin-left: auto;
+  margin-right: auto;
   padding: 5px
 }
 
@@ -46,7 +47,6 @@ ul.menu_horizontal {
   text-decoration: none;
 	padding:6px 0 6px 0;
 }
-
 .home:hover {
   text-decoration: underline;
 }
@@ -57,7 +57,6 @@ ul.menu_horizontal {
   text-decoration: none;
 	padding:6px 0 6px 0;
 }
-
 .projet:hover {
   text-decoration: underline;
 }
@@ -68,7 +67,6 @@ ul.menu_horizontal {
   text-decoration: none;
 	padding:6px 0 6px 0;
 }
-
 .contact:hover {
   text-decoration: underline;
 }
@@ -76,15 +74,6 @@ ul.menu_horizontal {
 .contenu {
   background-color: #FFFFFF;
   max-width: 200%;
-  margin-left: -1%;
-  margin-right: -1%;
-}
-
-.footer {
-  position: fixed;
-  bottom: 0;
-  background-color: #FFFFFF;
-  max-width: 200%;
-  margin-left: -1%;
-  margin-right: -1%;
+  margin-left: auto;
+  margin-right: auto;
 }
