@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Police";
+	src: url('Glamor/Glamor-Regular.ttf');
+}
+@font-face {
+	font-family: "Police";
+	font-style: italic;
+	src: url('Glamor/Glamor-Italic.ttf');
+}
+@font-face {
+	font-family: "Police";
+	font-weight: bold;
+	src: url('Glamor/Glamor-Bold.ttf');
+}
