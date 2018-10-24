@@ -1,17 +1,26 @@
+/* TITRE */
 h1 {
   font-family: 'Fredericka the Great';
   font-size: 60px;
   text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
-nav {
-
-}
+/* MENU */
 nav ul {
-  list-style-type: none;
   text-align: center;
 }
-
+nav a {
+  list-style-type: none;
+  color: #5D576B;
+  font-family: 'Poiret One';
+  text-decoration: none;
+  margin: 10px;
+}
+a:hover {
+    text-decoration: underline;
+}
 nav li {
   display: inline;
 }
