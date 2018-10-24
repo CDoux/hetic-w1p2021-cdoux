@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Fredericka the Great';
+  font-size: 60px;
+  text-align: center;
+}
+
+nav {
+
+}
+nav ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+}
