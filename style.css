@@ -1,3 +1,14 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
 /* TITRE */
 h1 {
   font-family: 'Fredericka the Great';
@@ -23,4 +34,14 @@ a:hover {
 }
 nav li {
   display: inline;
+}
+
+footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  padding-top:50px;
+  height:50px;
+  text-align: center;
+  font-family: 'Poiret One';
 }
