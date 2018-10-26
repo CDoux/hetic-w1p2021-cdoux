@@ -113,6 +113,14 @@ h2 {
   text-align: center;
 }
 
+.flechepage {
+  display: block;
+  margin: auto;
+  height: auto;
+  width: 50px;
+  margin-top: 30px;
+}
+
 
     /* FOOTER */
 footer {
