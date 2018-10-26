@@ -32,10 +32,20 @@ nav a {
   margin: 10px;
 }
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 nav li {
   display: inline;
+}
+
+
+    /* FLECHE SEPARATION */
+.fleche {
+  display: block;
+  margin: auto;
+  height: auto;
+  width: 22px;
+  margin-top: 30px;
 }
 
 
@@ -69,12 +79,14 @@ p {
   text-decoration: underline;
 }
 
-    /* ARTICLE */
+
+    /* ARTICLE EN ENTIER */
 h2 {
   font-family: 'Poiret One';
   font-size: 50px;
   text-align: center;
 }
+
 
     /* FOOTER */
 footer {
