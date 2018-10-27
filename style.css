@@ -79,6 +79,7 @@ nav li {
 .apercu {
   border: solid black 1px;
   width: 50%;
+  margin-top: 20px;
   margin-right: auto;
   margin-left: auto;
   padding-top: 25px;
