@@ -32,11 +32,12 @@ h1 {
   grid-column: 3;
 }
 .logoheader {
-  width: 45px;
   display: inline;
   align-items: center;
   margin-top: 60px;
   margin-left: 10px;
+  width: 45px;
+  height: 45px;
 }
 
 
