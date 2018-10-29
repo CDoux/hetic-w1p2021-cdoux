@@ -115,6 +115,17 @@ h2 {
   text-align: center;
 }
 
+    /* PRESENTATION */
+.photopresentation {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  opacity: 0.8;
+}
+
+
     /* PAGE SUIVANTE droite/gauche ? */
 .flechepage {
   display: block;
