@@ -12,15 +12,18 @@ header {
   grid-template-rows: 80% 20%;
   grid-template-columns: 25% 50% 25%;
 }
+img {
+  max-width: 100%;
+  }
 
-
+  
     /* LOGO */
 .logo {
   width: 500px;
+  height: auto;
   margin: auto;
   grid-column: 2;
-
-
+  grid-row: 1;
 }
 
     /* ICON */
