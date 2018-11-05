@@ -16,10 +16,10 @@ img {
   max-width: 100%;
   }
 p {
-  margin-left: 70px;
-  margin-right: 70px;
+  margin-left: 150px;
+  margin-right: 150px;
   font-family: 'Oranienbaum';
-  font-size: 17px;
+  font-size: 18px;
 }
 
 
@@ -103,6 +103,9 @@ h3 {
 }
 .texteappercu {
   margin-bottom: 20px;
+  font-size: 17px;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 .lienarticle {
   font-family:'Poiret One';
