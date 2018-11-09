@@ -63,6 +63,7 @@ nav a {
   font-family: 'Poiret One';
   text-decoration: none;
   margin: 10px;
+  font-size: 17px;
 }
 a:hover {
   text-decoration: underline;
